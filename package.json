@@ -1,0 +1,19 @@
+{
+  "name": "briquette_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agungkas/Briquette_web.git"
+  },
+  "author": "Agung Prasetia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agungkas/Briquette_web/issues"
+  },
+  "homepage": "https://github.com/agungkas/Briquette_web#readme"
+}
